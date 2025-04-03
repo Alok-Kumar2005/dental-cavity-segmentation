@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+opencv-python
+# detectron2
+requests
+pillow
